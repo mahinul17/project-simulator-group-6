@@ -1,0 +1,1 @@
+As an Inventory Clerk, I want to register with valid information so that I can securely access the system.

@@ -1,0 +1,1 @@
+As an Inventory Clerk, I want to add products so that inventory records stay complete.
