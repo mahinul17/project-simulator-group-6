@@ -1,0 +1,1 @@
+As an Inventory Clerk, I want to view all products so that I can manage inventory.
